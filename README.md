@@ -1,16 +1,17 @@
-## Hi there 👋
+# Stroud
 
-<!--
-**linkerland/linkerland** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Student developer · Rust · Bash · Cybersecurity**
 
-Here are some ideas to get you started:
+I’m a 16-year-old developer studying Information Assurance and Cybersecurity at CEI. I work with Rust and Bash, and I’m building practical programming skills alongside my cybersecurity studies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Focus
+
+- Rust development
+- Bash scripting and Linux tools
+- Information assurance and cybersecurity
+
+## Projects
+
+[Browse my repositories](https://github.com/linkerland?tab=repositories)
+
+I’m glad to connect with professors, mentors, and teams interested in supporting student developers. You can reach me here on GitHub.
